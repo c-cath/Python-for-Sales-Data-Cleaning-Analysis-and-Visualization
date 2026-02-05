@@ -113,6 +113,8 @@ plt.title("Total Sales by Region")
 plt.xticks(rotation=20)
 plt.show()
 ```
+<img width="641" height="477" alt="image" src="https://github.com/user-attachments/assets/2c802c84-c7ee-43ba-9004-f3aa953e0923" />
+
 ### 2. Sales Trend Over Time
 ```python
 plt.figure(figsize=(7,5))
@@ -121,6 +123,8 @@ plt.title("Sales Trend Over Time")
 plt.ylabel("Total Sales ($)")
 plt.show()
 ```
+<img width="630" height="459" alt="image" src="https://github.com/user-attachments/assets/63c374d1-c9d4-4a60-aad3-5e34eb2f7709" />
+
 
 ### 3. Category Share Pie Chart
 ```python
@@ -131,6 +135,8 @@ plt.title("Sales Share by Category")
 plt.ylabel("")
 plt.show()
 ```
+<img width="532" height="497" alt="image" src="https://github.com/user-attachments/assets/6a2b9443-a1dd-44bf-b308-1c40da606a1d" />
+
 
 ## Findings
 - Some regions outperform others in total sales.
